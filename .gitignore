@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# ChEMBL and other large datasets
+data/*.csv
+data/*.csv.gz
+*.csv.gz
+
+# Model files and checkpoints
+*.keras
+*.h5
+*.ckpt
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment/secrets
+.env
+.env.*
