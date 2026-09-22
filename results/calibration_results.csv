@@ -1,0 +1,4 @@
+benchmark,hardware,sample_size,sequence_length,epoch_seconds,throughput_samples_s
+10K_calibration,Apple_M4_CPU,10000,404,133.87,53.78
+10K_calibration,Apple_M4_Metal,10000,404,36.05,199.72
+10K_calibration,NVIDIA_RTX_3080,10000,404,11.84,607.98

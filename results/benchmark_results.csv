@@ -1,0 +1,3 @@
+benchmark,hardware,sequence_length,epoch_1_seconds,epoch_2_seconds,epoch_3_seconds,mean_seconds,median_seconds,mean_throughput_samples_s,median_throughput_samples_s
+100K_standardized,NVIDIA_Tesla_T4,404,180.20,180.47,180.36,180.34,180.36,399.24,399.20
+100K_standardized,NVIDIA_A100_SXM4_40GB,404,43.10,43.03,43.04,43.06,43.04,1672.22,1672.85

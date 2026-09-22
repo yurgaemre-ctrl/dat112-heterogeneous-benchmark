@@ -1,0 +1,23 @@
+2025 FULL-DATA A100 EXPERIMENT
+
+Hardware: NVIDIA A100
+Dataset: ChEMBL
+Sequence length: 404
+
+X_train: (2141988, 404)
+X_test:  (535497, 404)
+
+Training epochs: 15
+
+Final scaled training MSE: 0.0019
+Original-scale test MSE: 0.0034
+
+Prediction:
+16735/16735 steps
+396 seconds
+24 ms/step
+
+IMPORTANT:
+This was a full-data model-training experiment and is not directly
+comparable to the standardized 100K hardware benchmark conducted in 2026.
+It is retained as a historical/full-scale experiment.
