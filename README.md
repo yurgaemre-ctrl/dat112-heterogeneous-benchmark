@@ -173,3 +173,9 @@ The repository preserves source and diagnostic code, the executed Colab notebook
 Large datasets, virtual environments, caches, and trained-model artifacts are excluded from Git.
 
 See `docs/methodology.md` for the detailed experimental specification.
+
+## License
+
+The original code and documentation in this repository are available under the MIT License. See [LICENSE](LICENSE).
+
+The ChEMBL source dataset is not included in this repository and remains subject to its own terms and licensing conditions.
